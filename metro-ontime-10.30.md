@@ -19,11 +19,6 @@ Need to create a UX Backlog
 		- Determine realistically what we need (resources) to deliver 
 	- Create Wireframes
 
-Look into using the Gethub Project Board
-
-Create a trello board for product oriented things (UX/UI/Strategy)
-Create a priority label
-
 Understand who the users are as a whole
 - Who could they possibly be
 - Then target who they can be
