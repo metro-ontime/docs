@@ -24,6 +24,33 @@
 	- Do they present data reports to anyone? - Data health reports?
 - Do they suggest any improvements to the way they work now?
 
+## General Public (Metro Riders)
+- General Background
+	- What is their technological level?
+	- What type of device (phone) do they use?
+- General Metro
+	- Walk me through their last metro rail experience?
+	- How long have they been using on metro rail system?
+	- How often do they use the metro rail system?
+	- Could you explain the last time you just missed a metro rail line?
+	- What do they use metro rail for?
+	- What do they specifically like about the metro rail experience?
+	- What don't they like about the metro rail experience?
+	- Can historical metro data help them?
+- Metro technology
+	- Do they use any technology to aide their metro experience now?
+		- Walk me through their last metro rail technology experience?
+		- What is their experience using technology for metro?
+		- How often do they use tech for metro?
+		- What problems do they face using the technology?
+		- Are the current technology tools missing anything?
+- Historical Data / Charts
+	- Are they exposed to any charts currently (online, on their phone, in person, etc)?
+		- What do they like about it?
+		- What don't they like about it?
+		- What was it missing?
+	
+
 ## Metro Station Employees 
 (**How do we get in touch with them?**)
 - General Background
