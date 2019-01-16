@@ -19,12 +19,12 @@ How would any type of report system benefit metro riders?
 	- Some people might be interested in looking at previous data to gauge future traveling decisions
 - Comparison against Google Data to show how it might differ for future travel
 	- How accurate is Google Data? - Per metro line/station // regions 
-	- What\'92s the cause?
+	- What's the cause?
 - How busy is a train station? - How much Traffic?
 	- Would there be a way to check/test this with current data?
 	- How long are riders waiting at a train station?
 - Time at station
-- - The metro is at a station for a specific amount of time
+	- The metro is at a station for a specific amount of time
 - Infrastructure
 	- Train was traveling between certain points quicker last week than this week (with no riders)
 		- Is the train infrastructure in need of monitoring?
