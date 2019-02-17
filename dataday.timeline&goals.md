@@ -9,7 +9,7 @@
 	- Make sure the copy is zingy
 
 
-**Personas (finalize personas first) - (~Aaron, Frank, Jose~)**
+**Personas (finalize personas first) - (Aaron, Frank, Jose)**
 - Talk about the needs of the different persona types (problem statements)**
 	- Using Quotes 
 * Suggestions on solutions for the persona types**
