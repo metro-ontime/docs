@@ -10,9 +10,9 @@
 
 
 **Personas (finalize personas first) - (Aaron, Frank, Jose)**
-- Talk about the needs of the different persona types (problem statements)**
+- Talk about the needs of the different persona types (problem statements)
 	- Using Quotes 
-* Suggestions on solutions for the persona types**
+* Suggestions on solutions for the persona types
 
 ## Timeline
 
